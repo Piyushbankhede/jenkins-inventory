@@ -1,0 +1,4 @@
+[aws]
+
+aws_instance ansible_host=18.206.120.8 ansible_user=ubuntu ansible_private_key_file=/home/piyush/ devops-project-key.pem ansible_become=true ansible_become_method=sudo
+
